@@ -1,4 +1,5 @@
 :root {
+  /* COLORS */
   --color-main-background: #090b1b;
   --color-card-background: #1b1938;
   --color-accent: #aa5cdb;
@@ -91,12 +92,18 @@ img {
   color: var(--color-main-paragraph);
 }
 
-@media (min-width: 1006px){
+@media screen and (min-width: 1024px){
   body{
     padding-top: 13rem;
   }
+
+  img{
+    max-width: 640px;
+  }
+
+
   .section{
-    width: 80%;
+    width: 90%;
     display: flex;
     flex-direction: row-reverse;
     max-width: 920px;
