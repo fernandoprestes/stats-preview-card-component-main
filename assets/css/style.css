@@ -64,7 +64,7 @@ img {
   color: var(--color-accent);
 }
 
-.description-text {
+.introduction .description {
   line-height: 1.6;
   font-weight: 300;
   padding: 0 1rem;
@@ -101,7 +101,6 @@ img {
     max-width: 640px;
   }
 
-
   .section{
     width: 90%;
     display: flex;
@@ -121,7 +120,7 @@ img {
     width: 387px;
   }
 
-  .description-text{
+  .introduction .description{
     padding: 0;
   }
 
