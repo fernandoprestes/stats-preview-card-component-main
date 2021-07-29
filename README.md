@@ -14,8 +14,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Netlify](https://keen-bohr-f6af32.netlify.app)
 
 ## My process
 
@@ -47,7 +45,7 @@ Users should be able to:
 ```html
   <picture>
     <source media="(min-width: 1024px)" srcset="./assets/img/image-header-desktop.jpg" type="image/jpg">
-    <img src="./assets/img/image-header-mobile.jpg" alt="" />
+    <img src="./assets/img/image-header-mobile.jpg" alt="three women sitting at a table in an office" />
   </picture>
 ```
 ```css
